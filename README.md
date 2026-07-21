@@ -67,7 +67,7 @@ Google Sheets        LINE Messaging API
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/lifectai/group-home-consultation-ai.git
+git clone https://github.com/lifectaidev/group-home-consultation-ai.git
 cd group-home-consultation-ai
 ```
 
@@ -109,7 +109,7 @@ streamlit run app.py
 名古屋で組織マネジメントに携わりながら、現場課題をAIで解決するアプリを開発しています。
 DMM生成AIエンジニアコース修了（2025年3月）／オープンバッジ取得。
 
-- GitHub：https://github.com/lifectai
+- GitHub：https://github.com/lifectaidev
 - Qiita：https://qiita.com/Lifect
 
 ---
