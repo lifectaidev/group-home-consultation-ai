@@ -5,12 +5,11 @@ AIが相談者と自然な会話をしながら必要事項をヒアリングし
 
 ---
 
-## デモ・本番URL
+## デモURL
 
 | 種別 | URL |
 |---|---|
-| デモ | https://group-home-consultation-ai-demo.streamlit.app |
-| 本番 | https://group-home-consultation-ai-hnfappzescdepzmygjdufma.streamlit.app |
+| デモ | https://group-home-ai-demo.streamlit.app |
 
 ---
 
